@@ -1,1 +1,1 @@
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbswo9795@gmail.com&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkandpf9795@naver.com&layout=compact"><br><br>
