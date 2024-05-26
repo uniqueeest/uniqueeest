@@ -9,7 +9,8 @@
 JS, TS, React, Next.js
 
 ## OpenSource
-- supabase : change URL in storage bucket guide (https://github.com/supabase/supabase/pull/25887)
-- immich : prevent DELETE key from clearing DateInput in modal (https://github.com/immich-app/immich/pull/8846)
-- actual : revise modal margin (https://github.com/actualbudget/actual/pull/2714)
-- activepieces : revise reset zoom icon (https://github.com/activepieces/activepieces/issues/4438)
+- supabase : Change URL in storage bucket guide (https://github.com/supabase/supabase/pull/25887)
+- immich : Prevent DELETE key from clearing DateInput in modal (https://github.com/immich-app/immich/pull/8846)
+- recharts: Add test code for Treemap component, update storybook documentation (https://github.com/recharts/recharts/pull/4584)
+- actual : Revise modal margin (https://github.com/actualbudget/actual/pull/2714)
+- activepieces : Revise reset zoom icon (https://github.com/activepieces/activepieces/issues/4438)
