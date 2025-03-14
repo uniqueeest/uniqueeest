@@ -8,10 +8,4 @@
 ## Skills
 JS, TS, React, Next.js
 
-## OpenSource
-- supabase : Change URL in storage bucket guide (https://github.com/supabase/supabase/pull/25887)
-- immich : Prevent DELETE key from clearing DateInput in modal (https://github.com/immich-app/immich/pull/8846)
-- recharts: Add test code for Treemap component, update storybook documentation (https://github.com/recharts/recharts/pull/4584)
-- actual : Revise modal margin (https://github.com/actualbudget/actual/pull/2714)
-- activepieces : Revise reset zoom icon (https://github.com/activepieces/activepieces/issues/4438)
-- notesbook: Add readonly branch even in locked notes (https://github.com/streetwriters/notesnook/pull/5731)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funiqueeest&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)               
