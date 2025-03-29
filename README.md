@@ -8,4 +8,4 @@
 ## Skills
 JS, TS, React, Next.js
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Funiqueeest&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)               
+[![Hits](https://https://hit-counter-bhey.onrender.com/count/incr/badge.svg?url=https://github.com/uniqueeest&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://github.com/uniqueeest)
