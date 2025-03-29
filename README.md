@@ -8,4 +8,4 @@
 ## Skills
 JS, TS, React, Next.js
 
-[![Hits](https://hit-counter-bhey.onrender.com/count/incr/badge.svg?url=https://github.com/uniqueeest&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://github.com/uniqueeest)
+![방문자 수](https://git-hit-counter.dbswo9795.workers.dev/?username=uniqueeest)
